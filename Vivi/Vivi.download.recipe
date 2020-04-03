@@ -7,7 +7,7 @@
     <key>Identifier</key>
     <string>com.github.aarondavidpolley.download.vivi</string>
     <key>Input</key>
-    <dict>>
+    <dict>
         <key>NAME</key>
         <string>Vivi</string>
     </dict>
